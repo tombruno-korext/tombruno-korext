@@ -33,7 +33,7 @@ Based in the San Francisco Bay Area.
 <td width="50%" valign="top">
 
 **[ai-attestation](https://github.com/korext/ai-attestation)**
-Track AI generated code in any repository. Detects AI coding tools from git history.
+Track AI generated code in any repository. Detects 19 AI coding tools from git history.
 
 [![npm](https://img.shields.io/npm/v/@korext/ai-attestation?label=npm&style=flat-square&color=CB3837)](https://www.npmjs.com/package/@korext/ai-attestation)
 
@@ -51,7 +51,7 @@ Declare AI provenance in open source projects. Attaches to any existing license.
 <td width="50%" valign="top">
 
 **[supply-chain-attestation](https://github.com/korext/supply-chain-attestation)**
-AI provenance across your dependency tree. 8+ ecosystems. CycloneDX and SPDX.
+AI provenance across your dependency tree. 14 ecosystems. CycloneDX and SPDX.
 
 [![npm](https://img.shields.io/npm/v/@korext/supply-check?label=npm&style=flat-square&color=CB3837)](https://www.npmjs.com/package/@korext/supply-check)
 
