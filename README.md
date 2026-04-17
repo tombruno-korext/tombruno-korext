@@ -20,7 +20,7 @@ My work sits at the intersection of AI coding tools, platforms, code governance,
 
 Alongside building Korext, I bring over a decade of experience in product strategy, innovation, and engineering leadership at Google, where I have led initiatives across Chrome, web platform strategy, and developer ecosystems that shaped how developers and users experience the web.
 
-I hold graduate degrees in business from HEC Paris, advanced engineering, and applied AI from UC Berkeley College of Engineering alongside my foundation in computer science. That combination drives how I think about building: where technical progress meets real world adoption, where infrastructure constraints shape product decisions, and where standards create markets.
+I hold graduate degrees in Business, specializing in Innovation and Entrepreneurship from HEC Paris, and Electronics and Systems Engineering from UC Berkeley College of Engineering, alongside my foundation in Computer Science. That combination drives how I think about building: where technical progress meets real world adoption, where infrastructure constraints shape product decisions, and where standards create markets.
 
 Based in the San Francisco Bay Area.
 
