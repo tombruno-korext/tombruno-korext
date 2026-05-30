@@ -16,6 +16,27 @@
       <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.25"/>
       <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
     </radialGradient>
+    <style>
+      @media (max-width: 600px) {
+        .banner-title {
+          font-size: 92px !important;
+          y: 150px !important;
+        }
+        .banner-subtitle {
+          font-size: 28px !important;
+          y: 205px !important;
+        }
+        .badge-group {
+          transform: translate(80px, 222px) scale(1.4) !important;
+        }
+        .dots-group {
+          transform: translate(80px, 290px) scale(1.4) !important;
+        }
+        .logo-group {
+          display: none !important;
+        }
+      }
+    </style>
   </defs>
 
   <rect width="1280" height="320" fill="url(#bg)"/>
@@ -30,16 +51,16 @@
     <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
   </line>
 
-  <text x="80" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="76" font-weight="700" fill="white" letter-spacing="-2.5">Tom Bruno</text>
+  <text x="80" y="170" class="banner-title" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="76" font-weight="700" fill="white" letter-spacing="-2.5">Tom Bruno</text>
 
-  <text x="80" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="400" fill="#94A3B8" letter-spacing="0.5">Open standards for AI code governance</text>
+  <text x="80" y="220" class="banner-subtitle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="400" fill="#94A3B8" letter-spacing="0.5">Open standards for AI code governance</text>
 
-  <g transform="translate(80, 248)">
+  <g transform="translate(80, 248)" class="badge-group">
     <rect width="180" height="28" rx="14" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
     <text x="90" y="18" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="500" fill="#06B6D4" letter-spacing="1.5" text-anchor="middle">FOUNDER · KOREXT</text>
   </g>
 
-  <g transform="translate(80, 295)">
+  <g transform="translate(80, 295)" class="dots-group">
     <circle cx="0" cy="0" r="3" fill="#06B6D4">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
     </circle>
@@ -51,7 +72,7 @@
     </circle>
   </g>
 
-  <g transform="translate(1140, 80)">
+  <g transform="translate(1140, 80)" class="logo-group">
     <circle cx="50" cy="50" r="48" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
     <circle cx="50" cy="50" r="36" fill="none" stroke="#06B6D4" stroke-width="2" stroke-dasharray="226" stroke-dashoffset="0">
       <animate attributeName="stroke-dashoffset" from="226" to="0" dur="6s" repeatCount="indefinite"/>

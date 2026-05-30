@@ -108,8 +108,8 @@ Product and Platform Strategy Lead at **Google**, where my work centers on Chrom
 
 <div align="center">
 
-<img src="https://korext-stats-574316589086.us-central1.run.app/api?username=tombruno-korext&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=1E40AF&icon_color=06B6D4&text_color=334155&bg_color=ffffff" alt="GitHub Stats" width="48%">
-<img src="https://korext-stats-574316589086.us-central1.run.app/api/top-langs/?username=korext&layout=compact&hide_border=true&title_color=1E40AF&text_color=334155&bg_color=ffffff" alt="Top Languages" width="48%">
+<img src="https://stats.oss.korext.com/api?username=tombruno-korext&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=1E40AF&icon_color=06B6D4&text_color=334155&bg_color=ffffff" alt="GitHub Stats" width="48%">
+<img src="https://stats.oss.korext.com/api/top-langs/?username=korext&layout=compact&hide_border=true&title_color=1E40AF&text_color=334155&bg_color=ffffff" alt="Top Languages" width="48%">
 
 <br><br>
 
