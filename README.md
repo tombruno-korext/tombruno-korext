@@ -40,7 +40,7 @@ The seven packages I design, maintain, and ship.
 <tr>
 <td><a href="https://github.com/korext/supply-chain-attestation"><strong>supply-chain-attestation</strong></a></td>
 <td>Adapters across the leading SBOM and signature ecosystems</td>
-<td><img src="https://img.shields.io/npm/v/@korext/supply-chain-attestation?style=flat-square&color=1E40AF&label=npm" alt="version"></td>
+<td><img src="https://img.shields.io/npm/v/@korext/supply-check?style=flat-square&color=1E40AF&label=npm" alt="version"></td>
 </tr>
 <tr>
 <td><a href="https://github.com/korext/ai-license"><strong>ai-license</strong></a></td>
@@ -50,17 +50,17 @@ The seven packages I design, maintain, and ship.
 <tr>
 <td><a href="https://github.com/korext/ai-incident-registry"><strong>ai-incident-registry</strong></a></td>
 <td>Public incident taxonomy and registry for AI code failures</td>
-<td><img src="https://img.shields.io/npm/v/@korext/ai-incident-registry?style=flat-square&color=1E40AF&label=npm" alt="version"></td>
+<td><img src="https://img.shields.io/npm/v/@korext/incident-report?style=flat-square&color=1E40AF&label=npm" alt="version"></td>
 </tr>
 <tr>
 <td><a href="https://github.com/korext/ai-code-radar"><strong>ai-code-radar</strong></a></td>
 <td>Detection pattern library for AI authored code</td>
-<td><img src="https://img.shields.io/npm/v/@korext/ai-code-radar?style=flat-square&color=1E40AF&label=npm" alt="version"></td>
+<td><img src="https://img.shields.io/npm/v/@korext/radar-data?style=flat-square&color=1E40AF&label=npm" alt="version"></td>
 </tr>
 <tr>
 <td><a href="https://github.com/korext/ai-regression-database"><strong>ai-regression-database</strong></a></td>
 <td>Regression fingerprinting for AI code patterns</td>
-<td><img src="https://img.shields.io/npm/v/@korext/ai-regression-database?style=flat-square&color=1E40AF&label=npm" alt="version"></td>
+<td><img src="https://img.shields.io/npm/v/@korext/regression-submit?style=flat-square&color=1E40AF&label=npm" alt="version"></td>
 </tr>
 <tr>
 <td><a href="https://github.com/korext/commit-carbon"><strong>commit-carbon</strong></a></td>
