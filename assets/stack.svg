@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-label="The Korext stack: seven open standards track, declare, scan, report, measure, detect and sustain AI generated code; the Korext platform governs and signs; enforce-action gates CI/CD.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050B1C"/>
+      <stop offset="100%" stop-color="#0F2150"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1E40AF"/>
+      <stop offset="100%" stop-color="#0E7490"/>
+    </linearGradient>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#38BDF8"/>
+    </marker>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .flow { stroke-dasharray: 5 6; animation: f 10s linear infinite; }
+      @keyframes f { to { stroke-dashoffset: -110; } }
+      @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1200" height="430" rx="18" fill="url(#bg)"/>
+
+  <text x="48" y="54" class="mono" font-size="12" fill="#06B6D4" letter-spacing="3">THE STACK</text>
+  <text x="48" y="84" class="sans" font-size="22" font-weight="700" fill="#FFFFFF">Open standards are the substrate. The platform is the runtime.</text>
+
+  <!-- Layer 1: open standards -->
+  <text x="48" y="128" class="mono" font-size="11" fill="#94A3B8" letter-spacing="2">OPEN STANDARDS  ·  CC0 SPECS  ·  APACHE 2.0 CODE  ·  CC BY 4.0 DATA</text>
+  <g class="sans">
+    <g transform="translate(48,142)">
+      <rect width="146" height="78" rx="10" fill="#FFFFFF" fill-opacity="0.05" stroke="#38BDF8" stroke-opacity="0.35"/>
+      <text x="14" y="30" font-size="15" font-weight="700" fill="#FFFFFF">Track</text>
+      <text x="14" y="54" class="mono" font-size="11" fill="#7DD3FC">ai-attestation</text>
+    </g>
+    <g transform="translate(206,142)">
+      <rect width="146" height="78" rx="10" fill="#FFFFFF" fill-opacity="0.05" stroke="#38BDF8" stroke-opacity="0.35"/>
+      <text x="14" y="30" font-size="15" font-weight="700" fill="#FFFFFF">Declare</text>
+      <text x="14" y="54" class="mono" font-size="11" fill="#7DD3FC">ai-license</text>
+    </g>
+    <g transform="translate(364,142)">
+      <rect width="146" height="78" rx="10" fill="#FFFFFF" fill-opacity="0.05" stroke="#38BDF8" stroke-opacity="0.35"/>
+      <text x="14" y="30" font-size="15" font-weight="700" fill="#FFFFFF">Scan</text>
+      <text x="14" y="52" class="mono" font-size="11" fill="#7DD3FC">supply-chain-<tspan x="14" dy="15">attestation</tspan></text>
+    </g>
+    <g transform="translate(522,142)">
+      <rect width="146" height="78" rx="10" fill="#FFFFFF" fill-opacity="0.05" stroke="#38BDF8" stroke-opacity="0.35"/>
+      <text x="14" y="30" font-size="15" font-weight="700" fill="#FFFFFF">Report</text>
+      <text x="14" y="52" class="mono" font-size="11" fill="#7DD3FC">ai-incident-<tspan x="14" dy="15">registry</tspan></text>
+    </g>
+    <g transform="translate(680,142)">
+      <rect width="146" height="78" rx="10" fill="#FFFFFF" fill-opacity="0.05" stroke="#38BDF8" stroke-opacity="0.35"/>
+      <text x="14" y="30" font-size="15" font-weight="700" fill="#FFFFFF">Measure</text>
+      <text x="14" y="54" class="mono" font-size="11" fill="#7DD3FC">ai-code-radar</text>
+    </g>
+    <g transform="translate(838,142)">
+      <rect width="146" height="78" rx="10" fill="#FFFFFF" fill-opacity="0.05" stroke="#38BDF8" stroke-opacity="0.35"/>
+      <text x="14" y="30" font-size="15" font-weight="700" fill="#FFFFFF">Detect</text>
+      <text x="14" y="52" class="mono" font-size="11" fill="#7DD3FC">ai-regression-<tspan x="14" dy="15">database</tspan></text>
+    </g>
+    <g transform="translate(996,142)">
+      <rect width="156" height="78" rx="10" fill="#FFFFFF" fill-opacity="0.05" stroke="#38BDF8" stroke-opacity="0.35"/>
+      <text x="14" y="30" font-size="15" font-weight="700" fill="#FFFFFF">Sustain</text>
+      <text x="14" y="54" class="mono" font-size="11" fill="#7DD3FC">commit-carbon</text>
+    </g>
+  </g>
+
+  <path class="flow" d="M600 226 L600 262" stroke="#38BDF8" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+
+  <!-- Layer 2: platform -->
+  <g transform="translate(48,268)" class="sans">
+    <rect width="1104" height="62" rx="12" fill="url(#core)"/>
+    <text x="24" y="38" font-size="17" font-weight="700" fill="#FFFFFF">Korext Platform</text>
+    <text x="210" y="38" font-size="14" fill="#E0F2FE">Governs AI generated code where it is written and signs a proof bundle for every scan. IDE, CLI, CI/CD and MCP.</text>
+  </g>
+
+  <path class="flow" d="M600 336 L600 362" stroke="#38BDF8" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+
+  <!-- Layer 3: enforcement -->
+  <g transform="translate(48,366)" class="sans">
+    <rect width="1104" height="40" rx="10" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="24" y="26" class="mono" font-size="13" fill="#7DD3FC">enforce-action</text>
+    <text x="210" y="26" font-size="14" fill="#CBD5E1">Gates every pull request on governance policy before merge.</text>
+  </g>
+</svg>
