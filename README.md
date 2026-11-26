@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Tom Bruno, Founder, Korext, AI code governance. AI writes code faster than people can review it. Proof has to keep pace. A map traces his path from Nairobi to Dublin to Paris to San Francisco, with TB at the centre of developers, AI coding tools, policies, pull requests, proof bundles, open standards and compliance." width="100%">
+<img src="./assets/banner.svg" alt="Tom Bruno, Founder, Korext, AI code governance. AI writes code faster than people can review it. Proof has to keep pace. A map traces his path from Nairobi to Dublin to Paris to San Francisco, with TB at the center of developers, AI coding tools, policies, pull requests, proof bundles, open standards and compliance." width="100%">
 
 <br><br>
 
@@ -23,7 +23,7 @@
 
 ## About
 
-I founded **[Korext](https://korext.github.io)** to make AI written code accountable. AI coding tools now write code faster than people can review it, and every team that adopts them has to answer the same questions: which code did AI write, did it meet our rules, and can we prove it? Korext answers with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable, and **[a platform](https://korext.com)** that enforces your policies where code is written and signs a proof bundle for every scan.
+I founded **[Korext](https://korext.github.io)** to make AI written code accountable. AI coding tools now write code faster than people can review it, and every team that adopts them has to answer the same questions: which code did AI write, did it meet our rules, and can we prove it? Korext answers with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable, and **[a platform](https://korext.com)** that enforces your policies where code is written and signs proof bundles for audit.
 
 By day I am a Product and Ecosystem Leader in AI Ecosystems at Google. Korext is my own work, separate from Google.
 
@@ -48,7 +48,7 @@ Seven standards, from tracking which of 19 AI coding tools touched a repository 
 
 ### Korext Platform
 
-72 policy packs and 532 rules across 13 languages, in the editor, the terminal, pull requests and AI assistants, with a signed proof bundle for every scan.
+72 policy packs and 532 rules across 13 languages, in the editor, the terminal, pull requests and AI assistants, with signed proof bundles for audit.
 
 <a href="https://korext.com"><b>korext.com →</b></a>
 
@@ -85,7 +85,7 @@ How AI agents, platforms and publishers connect: access, identity, incentives an
 ## Korext: the stack
 
 <div align="center">
-<img src="./assets/stack.svg" alt="How Korext fits together: seven open standards (ai-attestation, ai-license, supply-chain-attestation, ai-incident-registry, ai-code-radar, ai-regression-database, commit-carbon) feed the Korext Platform, which checks AI generated code against 72 policy packs and 532 rules in 13 languages and signs a proof bundle for every scan, and enforce-action, which scans every pull request and fails the check on critical or high severity violations." width="100%">
+<img src="./assets/stack.svg" alt="How Korext fits together: seven open standards (ai-attestation, ai-license, supply-chain-attestation, ai-incident-registry, ai-regression-database, ai-code-radar, commit-carbon) feed the Korext Platform, which checks AI generated code against 72 policy packs and 532 rules in 13 languages and signs proof bundles for audit, and enforce-action, which scans every pull request and fails the check on critical or high severity violations." width="100%">
 </div>
 
 <br>
